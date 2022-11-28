@@ -4,9 +4,9 @@
 
 # Do not use this in production. Sample purpose only.
 
-# Author: Upkar Lidder (IBM)
-# Additional Authors:
-# A name
+# Author: aswani.kammili@capgemini.com
+# Additional Authors: None
+# Ak2291 Profilename
 
 # Input:
 # p, principal amount
